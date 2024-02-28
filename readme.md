@@ -1,3 +1,3 @@
 # Pizza Menu
 
-Main project in Hemang Shah React Tutorial
+React js Project
